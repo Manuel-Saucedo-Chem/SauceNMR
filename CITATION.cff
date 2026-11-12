@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "SauceNMR"
+version: "1.0.1"
+date-released: "2026-11-12"
+abstract: >-
+  A desktop application for processing Bruker NMR FID data: Fourier transform, baseline correction, solvent referencing, integration and multiplicity assignment, with a shared compound library.
+authors:
+  - given-names: "Manuel Alberto"
+    family-names: "Saucedo Cañas"
+    orcid: "https://orcid.org/0000-0003-1312-6633"
+    affiliation: "Department of Chemistry and Biochemistry, The University of Texas at El Paso"
+  - given-names: "Skye"
+    family-names: "Fortier"
+    orcid: "https://orcid.org/0000-0002-0502-5229"
+    affiliation: "Department of Chemistry and Biochemistry, The University of Texas at El Paso"
+repository-code: "https://github.com/Manuel-Saucedo-Chem/SauceNMR"
+license: MIT
+keywords:
+  - NMR
+  - nuclear magnetic resonance
+  - Bruker
+  - spectral processing
